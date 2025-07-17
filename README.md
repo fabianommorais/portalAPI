@@ -1,4 +1,4 @@
-# 🌐 portalAPI
+# portalAPI
 
 A web application built with React that allows you to test REST API calls in a simple and user-friendly way. Ideal for developers who need to interact with token-protected endpoints, test various HTTP methods, and view structured responses directly in the browser.
 
@@ -6,7 +6,7 @@ A web application built with React that allows you to test REST API calls in a s
 
 ---
 
-## 🚀 Features
+## Features
 
 * ✅ Send requests using `GET`, `POST`, `PUT`, `DELETE` methods
 * ✅ Support for custom Headers and Body (JSON format)
@@ -19,7 +19,7 @@ A web application built with React that allows you to test REST API calls in a s
 
 ---
 
-## 📦 Technologies Used
+## Technologies Used
 
 * [React](https://reactjs.org/)
 * [React Hook Form](https://react-hook-form.com/)
@@ -30,7 +30,7 @@ A web application built with React that allows you to test REST API calls in a s
 
 ---
 
-## 🖥️ How to Use
+## How to Use
 
 ### 1. Clone the repository
 
