@@ -1,0 +1,10 @@
+{
+  "title": "Portail d'intégration d'API",
+  "url": "Url de l'API",
+  "urlPlaceholder": "https://api.exemple.com/donnees",
+  "token": "Jeton (Facultatif)",
+  "tokenPlaceholder": "Jeton d'authentification",
+  "headers": "En-tête (JSON)",
+  "button": "Envoyer",
+  "sendingTxt": "Envoyant..."
+}

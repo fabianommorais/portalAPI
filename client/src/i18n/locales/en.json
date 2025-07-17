@@ -1,0 +1,10 @@
+{
+  "title": "API Integration Portal",
+  "url": "Api's URL",
+  "urlPlaceholder": "https://api.example.com/data",
+  "token": "Token (Optional)",
+  "tokenPlaceholder": "Bearer token",
+  "headers": "Headers (JSON)",
+  "button": "Submit",
+  "sendingTxt": "Sending..."
+}

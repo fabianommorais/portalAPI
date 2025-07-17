@@ -1,0 +1,10 @@
+{
+  "title": "Portal de Integração de APIs",
+  "url": "Url da API",
+  "urlPlaceholder": "https://api.exemplo.com/dados",
+  "token": "Token (Opcional)",
+  "tokenPlaceholder": "Token de autenticação",
+  "headers": "Headers (JSON)",
+  "button": "Enviar",
+  "sendingTxt": "Enviando..."
+}

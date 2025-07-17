@@ -6,14 +6,14 @@ function App() {
     <div
       style={{
         display: 'flex',
-        flexDirection: 'column',
         justifyContent: 'center',
         alignItems: 'center',
         height: '100vh',
+        padding: '1rem',
         textAlign: 'center',
+        backgroundColor: '#f9f9f9',
       }}
     >
-      <h1>Portal de Integração de APIs</h1>
       <ApiTester />
     </div>
   );
