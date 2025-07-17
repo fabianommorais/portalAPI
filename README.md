@@ -2,7 +2,7 @@
 
 A web application built with React that allows you to test REST API calls in a simple and user-friendly way. Ideal for developers who need to interact with token-protected endpoints, test various HTTP methods, and view structured responses directly in the browser.
 
-![screenshot](public/screenshot.png)
+![screenshot](client/public/screenshot.png)
 
 ---
 
